@@ -1,0 +1,3 @@
+*.csv text eol=lf
+DataWrapper1/Dataset/tuition_original.csv -text
+*.png binary
