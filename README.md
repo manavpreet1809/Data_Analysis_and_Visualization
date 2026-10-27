@@ -1,4 +1,4 @@
-# Data Visualization Portfolio
+# Data Analysis and Visualization
 
 **Manavpreet Singh** · Data analysis and visual storytelling
 
