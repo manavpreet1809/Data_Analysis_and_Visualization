@@ -1,3 +1,4 @@
 *.csv text eol=lf
 DataWrapper1/Dataset/tuition_original.csv -text
 *.png binary
+Tableau1/Dataset/water_quality_original.csv -text
