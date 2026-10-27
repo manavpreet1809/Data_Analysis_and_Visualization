@@ -1,6 +1,6 @@
 # Tuition dataset
 
-The supplied coursework dataset contains 160 observations: 20 academic years (2006/2007–2025/2026), two geographies (Alberta and Canada), and four student groups. `VALUE` is average annual tuition in inflation-adjusted Canadian dollars, according to the assignment brief. The inflation base year and original government table identifier were not supplied; do not infer them.
+The supplied coursework dataset contains 160 observations: 20 academic years (2006/2007 to 2025/2026), two geographies (Alberta and Canada), and four student groups. `VALUE` is average annual tuition in inflation-adjusted Canadian dollars, according to the assignment brief. The inflation base year and original government table identifier were not supplied; do not infer them.
 
 - `tuition_original.csv`: unmodified supplied CSV, including its UTF-8 BOM and original metadata issues.
 - `tuition_normalized.csv`: same rows and values, with `Year` derived from the starting year in `School Year`.
