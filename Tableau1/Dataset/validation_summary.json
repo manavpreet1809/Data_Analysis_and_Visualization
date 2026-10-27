@@ -1,0 +1,334 @@
+{
+  "raw_rows": 1001,
+  "duplicates_removed": 82,
+  "ph_rows_excluded": 9,
+  "prepared_rows": 910,
+  "date_format": "day/month/year in source, ISO dates in prepared data",
+  "chloride_2016": {
+    "BOW RIVER ABOUT 4.5 KM ABOVE CANMORE": {
+      "n": 12,
+      "mean_mg_l": 1.47
+    },
+    "BOW RIVER AT HIGHWAY 1 ABOVE LAKE LOUISE": {
+      "n": 12,
+      "mean_mg_l": 0.28
+    },
+    "SASKATCHEWAN RIVER ABOVE CARROT RIVER": {
+      "n": 12,
+      "mean_mg_l": 8.43
+    },
+    "SOUTH SASKATCHEWAN RIVER AT HWY 41": {
+      "n": 12,
+      "mean_mg_l": 10.6
+    }
+  },
+  "oxygen_2016": {
+    "BOW RIVER ABOUT 4.5 KM ABOVE CANMORE": {
+      "n": 12,
+      "minimum_mg_l": 9.21,
+      "below_supplied_6_5": 0
+    },
+    "BOW RIVER AT HIGHWAY 1 ABOVE LAKE LOUISE": {
+      "n": 12,
+      "minimum_mg_l": 8.51,
+      "below_supplied_6_5": 0
+    },
+    "SASKATCHEWAN RIVER ABOVE CARROT RIVER": {
+      "n": 12,
+      "minimum_mg_l": 7.96,
+      "below_supplied_6_5": 0
+    },
+    "SOUTH SASKATCHEWAN RIVER AT HWY 41": {
+      "n": 12,
+      "minimum_mg_l": 8.0,
+      "below_supplied_6_5": 0
+    }
+  },
+  "nitrogen_hwy41": {
+    "n": 41,
+    "above_supplied_1_0": 18,
+    "percent": 43.9
+  },
+  "guideline_comparisons": [
+    {
+      "site": "BOW RIVER ABOUT 4.5 KM ABOVE CANMORE",
+      "variable": "AMMONIA DISSOLVED",
+      "outside": 1,
+      "n": 14,
+      "percent": 7.14
+    },
+    {
+      "site": "BOW RIVER ABOUT 4.5 KM ABOVE CANMORE",
+      "variable": "ARSENIC TOTAL",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER ABOUT 4.5 KM ABOVE CANMORE",
+      "variable": "CHLORIDE DISSOLVED",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER ABOUT 4.5 KM ABOVE CANMORE",
+      "variable": "COPPER TOTAL",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER ABOUT 4.5 KM ABOVE CANMORE",
+      "variable": "LEAD TOTAL",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER ABOUT 4.5 KM ABOVE CANMORE",
+      "variable": "NICKEL TOTAL",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER ABOUT 4.5 KM ABOVE CANMORE",
+      "variable": "NITROGEN TOTAL",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER ABOUT 4.5 KM ABOVE CANMORE",
+      "variable": "OXYGEN DISSOLVED",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER ABOUT 4.5 KM ABOVE CANMORE",
+      "variable": "PHOSPHORUS TOTAL",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER ABOUT 4.5 KM ABOVE CANMORE",
+      "variable": "ZINC TOTAL",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER AT HIGHWAY 1 ABOVE LAKE LOUISE",
+      "variable": "AMMONIA DISSOLVED",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER AT HIGHWAY 1 ABOVE LAKE LOUISE",
+      "variable": "ARSENIC TOTAL",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER AT HIGHWAY 1 ABOVE LAKE LOUISE",
+      "variable": "CHLORIDE DISSOLVED",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER AT HIGHWAY 1 ABOVE LAKE LOUISE",
+      "variable": "COPPER TOTAL",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER AT HIGHWAY 1 ABOVE LAKE LOUISE",
+      "variable": "LEAD TOTAL",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER AT HIGHWAY 1 ABOVE LAKE LOUISE",
+      "variable": "NICKEL TOTAL",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER AT HIGHWAY 1 ABOVE LAKE LOUISE",
+      "variable": "NITROGEN TOTAL",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER AT HIGHWAY 1 ABOVE LAKE LOUISE",
+      "variable": "OXYGEN DISSOLVED",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER AT HIGHWAY 1 ABOVE LAKE LOUISE",
+      "variable": "PHOSPHORUS TOTAL",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "BOW RIVER AT HIGHWAY 1 ABOVE LAKE LOUISE",
+      "variable": "ZINC TOTAL",
+      "outside": 0,
+      "n": 14,
+      "percent": 0.0
+    },
+    {
+      "site": "SASKATCHEWAN RIVER ABOVE CARROT RIVER",
+      "variable": "AMMONIA DISSOLVED",
+      "outside": 16,
+      "n": 22,
+      "percent": 72.73
+    },
+    {
+      "site": "SASKATCHEWAN RIVER ABOVE CARROT RIVER",
+      "variable": "ARSENIC TOTAL",
+      "outside": 0,
+      "n": 22,
+      "percent": 0.0
+    },
+    {
+      "site": "SASKATCHEWAN RIVER ABOVE CARROT RIVER",
+      "variable": "CHLORIDE DISSOLVED",
+      "outside": 0,
+      "n": 22,
+      "percent": 0.0
+    },
+    {
+      "site": "SASKATCHEWAN RIVER ABOVE CARROT RIVER",
+      "variable": "COPPER TOTAL",
+      "outside": 2,
+      "n": 22,
+      "percent": 9.09
+    },
+    {
+      "site": "SASKATCHEWAN RIVER ABOVE CARROT RIVER",
+      "variable": "LEAD TOTAL",
+      "outside": 0,
+      "n": 22,
+      "percent": 0.0
+    },
+    {
+      "site": "SASKATCHEWAN RIVER ABOVE CARROT RIVER",
+      "variable": "NICKEL TOTAL",
+      "outside": 0,
+      "n": 22,
+      "percent": 0.0
+    },
+    {
+      "site": "SASKATCHEWAN RIVER ABOVE CARROT RIVER",
+      "variable": "NITROGEN TOTAL",
+      "outside": 2,
+      "n": 22,
+      "percent": 9.09
+    },
+    {
+      "site": "SASKATCHEWAN RIVER ABOVE CARROT RIVER",
+      "variable": "OXYGEN DISSOLVED",
+      "outside": 1,
+      "n": 22,
+      "percent": 4.55
+    },
+    {
+      "site": "SASKATCHEWAN RIVER ABOVE CARROT RIVER",
+      "variable": "PHOSPHORUS TOTAL",
+      "outside": 6,
+      "n": 22,
+      "percent": 27.27
+    },
+    {
+      "site": "SASKATCHEWAN RIVER ABOVE CARROT RIVER",
+      "variable": "ZINC TOTAL",
+      "outside": 0,
+      "n": 22,
+      "percent": 0.0
+    },
+    {
+      "site": "SOUTH SASKATCHEWAN RIVER AT HWY 41",
+      "variable": "AMMONIA DISSOLVED",
+      "outside": 18,
+      "n": 41,
+      "percent": 43.9
+    },
+    {
+      "site": "SOUTH SASKATCHEWAN RIVER AT HWY 41",
+      "variable": "ARSENIC TOTAL",
+      "outside": 0,
+      "n": 41,
+      "percent": 0.0
+    },
+    {
+      "site": "SOUTH SASKATCHEWAN RIVER AT HWY 41",
+      "variable": "CHLORIDE DISSOLVED",
+      "outside": 0,
+      "n": 41,
+      "percent": 0.0
+    },
+    {
+      "site": "SOUTH SASKATCHEWAN RIVER AT HWY 41",
+      "variable": "COPPER TOTAL",
+      "outside": 6,
+      "n": 41,
+      "percent": 14.63
+    },
+    {
+      "site": "SOUTH SASKATCHEWAN RIVER AT HWY 41",
+      "variable": "LEAD TOTAL",
+      "outside": 3,
+      "n": 41,
+      "percent": 7.32
+    },
+    {
+      "site": "SOUTH SASKATCHEWAN RIVER AT HWY 41",
+      "variable": "NICKEL TOTAL",
+      "outside": 0,
+      "n": 41,
+      "percent": 0.0
+    },
+    {
+      "site": "SOUTH SASKATCHEWAN RIVER AT HWY 41",
+      "variable": "NITROGEN TOTAL",
+      "outside": 18,
+      "n": 41,
+      "percent": 43.9
+    },
+    {
+      "site": "SOUTH SASKATCHEWAN RIVER AT HWY 41",
+      "variable": "OXYGEN DISSOLVED",
+      "outside": 0,
+      "n": 41,
+      "percent": 0.0
+    },
+    {
+      "site": "SOUTH SASKATCHEWAN RIVER AT HWY 41",
+      "variable": "PHOSPHORUS TOTAL",
+      "outside": 11,
+      "n": 41,
+      "percent": 26.83
+    },
+    {
+      "site": "SOUTH SASKATCHEWAN RIVER AT HWY 41",
+      "variable": "ZINC TOTAL",
+      "outside": 0,
+      "n": 41,
+      "percent": 0.0
+    }
+  ]
+}
